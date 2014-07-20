@@ -11,9 +11,9 @@ clean a data set. The goal is to prepare tidy data that can be used for later an
 About the raw data
 --------------------
 Data includes 2 sets: testing and training.
-*The features (561 of them) are unlabeled and can be found in the x_test(train).txt.
-*The activity labels are in the y_test(train).txt file. 
-*The test subjects are in the subject_test(train).txt file.
+* The features (561 of them) are unlabeled and can be found in the x_test(train).txt.
+* The activity labels are in the y_test(train).txt file. 
+* The test subjects are in the subject_test(train).txt file.
 
 
 About the script and the tidy dataset
