@@ -32,7 +32,7 @@ Variable Description
 * Group.1                 : Activity
 * Group.2                 : Subject
 
-| Left-Aligned  | Center Aligned  | Right Aligned |
+
 | :------------ |:---------------:| -----:|
 |"Group.1" |"Group.2" |"tbodyacc-mean-x" |         
 |"tbodyacc-mean-y"   |        "tbodyacc-mean-z"  |         "tbodyacc-std-x"|        
