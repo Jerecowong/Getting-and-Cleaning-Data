@@ -32,11 +32,11 @@ Variable Description
 * Group.1                 : Activity
 * Group.2                 : Subject
 
-"Group.1"                   "Group.2"                   "tbodyacc-mean-x"          
-"tbodyacc-mean-y"           "tbodyacc-mean-z"           "tbodyacc-std-x"           
-"tbodyacc-std-y"            "tbodyacc-std-z"            "tgravityacc-mean-x"       
-"tgravityacc-mean-y"        "tgravityacc-mean-z"        "tgravityacc-std-x"        
-"tgravityacc-std-y"         "tgravityacc-std-z"         "tbodyaccjerk-mean-x"      
+"Group.1"                   "Group.2"                   "tbodyacc-mean-x"      |    
+"tbodyacc-mean-y"           "tbodyacc-mean-z"           "tbodyacc-std-x"       |   
+"tbodyacc-std-y"            "tbodyacc-std-z"            "tgravityacc-mean-x"   |    
+"tgravityacc-mean-y"        "tgravityacc-mean-z"        "tgravityacc-std-x"    |   
+"tgravityacc-std-y"         "tgravityacc-std-z"         "tbodyaccjerk-mean-x"  |    
 "tbodyaccjerk-mean-y"       "tbodyaccjerk-mean-z"       "tbodyaccjerk-std-x"       
 "tbodyaccjerk-std-y"        "tbodyaccjerk-std-z"        "tbodygyro-mean-x"         
 "tbodygyro-mean-y"          "tbodygyro-mean-z"          "tbodygyro-std-x"          
